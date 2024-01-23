@@ -1,18 +1,21 @@
 {
   "title": "My site",
-  "favicon": "image/favicon.ico",
+  "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace105/016680c5af87062f799c1a4f0abde1bd/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
-      "logo": "image/logo.png",
+      "title": "%E8%BF%99%E4%B8%AA%E5%90%8D%E7%A7%B0%E6%98%AF%E7%AB%99%E7%82%B9%E7%9A%84%E5%90%8D%E7%A7%B0",
+      "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace105/016680c5af87062f799c1a4f0abde1bd/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": "https://zegocloud.com"
     },
     "footer": {
       "logo": "image/logo.png",
